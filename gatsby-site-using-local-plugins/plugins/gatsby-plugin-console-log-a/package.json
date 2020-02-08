@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Log stuff in a Gatsby site's build process",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-plugin-twitter": "^2.1.19"
+  }
 }
